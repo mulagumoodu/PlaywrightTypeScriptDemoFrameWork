@@ -1,0 +1,7 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","4563","get started link","chromium","2026-03-01","passed","2026-03-01","","example.spec.ts","",""
+"","3968","has title","chromium","2026-03-01","passed","2026-03-01","","example.spec.ts","",""
+"","1998","get started link","webkit","2026-03-01","passed","2026-03-01","","example.spec.ts","",""
+"","1705","has title","webkit","2026-03-01","passed","2026-03-01","","example.spec.ts","",""
+"","5896","get started link","firefox","2026-03-01","passed","2026-03-01","","example.spec.ts","",""
+"","4045","has title","firefox","2026-03-01","passed","2026-03-01","","example.spec.ts","",""
